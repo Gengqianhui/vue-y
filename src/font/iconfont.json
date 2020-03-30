@@ -1,0 +1,107 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7643",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "f001b",
+      "unicode_decimal": 983067
+    },
+    {
+      "icon_id": "383681",
+      "name": "快进",
+      "font_class": "kuaijin",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "383682",
+      "name": "快退",
+      "font_class": "kuaitui",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "1181487",
+      "name": "向下箭头_小",
+      "font_class": "xiangxiajiantouxiao",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "1294063",
+      "name": "返回箭头",
+      "font_class": "back",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "2154280",
+      "name": "随机播放_32",
+      "font_class": "suijibofang",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "2154282",
+      "name": "循环播放_32",
+      "font_class": "xunhuanbofang",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "2154283",
+      "name": "单曲循环_32",
+      "font_class": "danquxunhuan",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "3204911",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "7501117",
+      "name": "爱心线条",
+      "font_class": "aixinxiantiao",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "7501118",
+      "name": "爱心块状",
+      "font_class": "aixinkuaizhuang",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "9703571",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "10063198",
+      "name": "目录",
+      "font_class": "NMStubiao-",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "12184875",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    }
+  ]
+}
